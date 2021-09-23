@@ -14,6 +14,12 @@ https://github.com/minerllabs/minerl
 
 Gym interface with Minecraft game, focused on a specific sparse reward challenge
 
+## ViZDoom
+
+https://github.com/mwydmuch/ViZDoom
+
+Gym interface for Doom game. Focus is on visual control of Doom player. Scales up to thousands of steps per second on a single core.
+
 ## Procgen
 
 https://github.com/openai/procgen
